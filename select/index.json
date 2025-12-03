@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "What’s up? Pop!",
+  "base_artist": "Capchii",
+  "createdAt": "2025-12-03T02:06:17.304314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What's up? Pop! (TwinfieldのセカイRemix) (feat. 初音ミク)",
+      "artist": "Capchii feat. Twinfield & Hatsune Miku",
+      "has_synced": true,
+      "path": "select/01_What's_up__Pop!_(TwinfieldのセカイRemix)_(feat._初音ミク)_Capchii_feat._Twinfield_&_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What's up? Pop! (feat. 初音ミク)",
+      "artist": "Capchii, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/02_What's_up__Pop!_(feat._初音ミク)_Capchii,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What's up? Pop! (feat. Hatsune Miku)",
+      "artist": "Capchii",
+      "has_synced": true,
+      "path": "select/03_What's_up__Pop!_(feat._Hatsune_Miku)_Capchii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What’s up? Pop!",
+      "artist": "Capchii",
+      "has_synced": true,
+      "path": "select/04_What’s_up__Pop!_Capchii.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What's up? Pop! (feat. 初音ミク)",
+      "artist": "Capchii",
+      "has_synced": false,
+      "path": "select/pl_01_What's_up__Pop!_(feat._初音ミク)_Capchii.txt"
+    }
+  ]
+}
